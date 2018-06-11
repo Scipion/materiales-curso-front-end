@@ -86,6 +86,7 @@
 * [Prueba técnica #7](formacion-continua/7_prueba_tecnica.md)
 ### Talleres avanzados
 * [Taller de testing con JavaScript](formacion-continua/taller-testing/1_taller_testing.md)
+* [Taller de debugging](formacion-continua/taller_debugging/1_taller_debugging.md)
 
 ## Guías
 
