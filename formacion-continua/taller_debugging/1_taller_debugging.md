@@ -50,13 +50,13 @@ En esta sección vamos a ver pasos a serguir para solucionar errores y en qué c
 
 3. **Entender el error**
 
-Una vez que hemos identificado y aislado el error, es hora de entender por qué sucede. Antes de intentar solucionar el error es asegurarnos de entender por qué sucede. La razón va a depender mucho del error que sea, y en la siguiente sección del taller veremos algunos tipos de errores en JavaScript y herramientas para solucionarlos. Algo que nos puede ayudar bastante a entender cuándo y por qué sucede un error es el *stack trace*, es decir, el listado de las llamadas a funciones donde ha sucedido el error. En este ejemplo, el error sucede ne la función `drawTotal`, que es llamada por `updateTotal` que a su vez es llamada desde una función anónima.
+  Una vez que hemos identificado y aislado el error, es hora de entender por qué sucede. Antes de intentar solucionar el error es asegurarnos de entender por qué sucede. La razón va a depender mucho del error que sea, y en la siguiente sección del taller veremos algunos tipos de errores en JavaScript y herramientas para solucionarlos. Algo que nos puede ayudar bastante a entender cuándo y por qué sucede un error es el *stack trace*, es decir, el listado de las llamadas a funciones donde ha sucedido el error. En este ejemplo, el error sucede ne la función `drawTotal`, que es llamada por `updateTotal` que a su vez es llamada desde una función anónima.
 
-![Ejemplo de stack trace](../assets/stack-trace.png)
+  ![Ejemplo de stack trace](../assets/stack-trace.png)
 
 4. **Solucionar el error**
 
-Ya sabemos qué error está sucediendo y por qué: ya solo falta solucionarlo. Fácil de decir pero, en ocasiones, nada fácil de realizar. Toca desarrollar código para solucionar el problema. Muchas veces este paso nos cuesta más porque no acabamos de entender por qué sucede el error.
+  Ya sabemos qué error está sucediendo y por qué: ya solo falta solucionarlo. Fácil de decir pero, en ocasiones, nada fácil de realizar. Toca desarrollar código para solucionar el problema. Muchas veces este paso nos cuesta más porque no acabamos de entender por qué sucede el error.
 
 ## Errores en JavaScript
 
