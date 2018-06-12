@@ -405,19 +405,19 @@ Cuando usamos preprocesadores CSS (como Sass) o JS (como Babel, typescript o ugl
 En el taller hemos propuesto una serie de ejercicios que ya hemos hecho en la formación continua (las pruebas técnicas), pero que tienen errores. Quizá puede plantearse que, si hubiéramos seguido una metodología de desarrolla adecuada, nunca tendríamos tantos errores juntos. Es decir, si vamos construyendo nuestro software por pequeñas piezas que probamos antes, seguramente nunca habríamos llegado a las situaciones que plantean estos ejercicios. Pero en el mundo real muchas veces no se siguen estas buenas prácticas y los errores se acumulan como en estos ejemplos. Además, nuestro objetivo en el taller es didáctico y el diseño de estos ejercicios con errores también responde a este fin.
 
 ### Sesión 1
-[Solución a la prueba de evalución del sprint 2 con errores](https://github.com/Adalab/clarke-fc-example-with-errors)
+[Solución a la prueba de evalución del sprint 2 con errores](https://github.com/Adalab/clarke-fc-debugging-1)
 
 ### Sesión 2
-[Solución prueba técnica con errores: Risotto de setas](https://github.com/Adalab/clarke-fc-risotto-de-setas-Eparrado)
+[Solución prueba técnica con errores: Risotto de setas](https://github.com/Adalab/clarke-fc-debugging-2)
 
 ### Sesión 3
-[Solución prueba técnica con errores: Github Card](https://github.com/Adalab/clarke-fc-github-card-SaraPeir)
+[Solución prueba técnica con errores: Github Card](https://github.com/Adalab/clarke-fc-debugging-3)
 
 ### Sesión 4
-[Solución prueba técnica con errores: TODO list](https://github.com/Adalab/clarke-fc-todo-list-Alienah)
+[Solución prueba técnica con errores: TODO list](https://github.com/Adalab/clarke-fc-debugging-4)
 
 ### Sesión 5
-[Solución prueba técnica con errores: ¿Cómo ha ido el día?](https://github.com/Adalab/clarke-fc-life-calendar-noeliiap17)
+[Solución prueba técnica con errores: ¿Cómo ha ido el día?](https://github.com/Adalab/clarke-fc-debugging-5)
 
 ## Recursos externos
 
