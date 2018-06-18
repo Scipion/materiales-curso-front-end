@@ -20,7 +20,7 @@ En este taller vamos a centrarnos en errores de código comunes en JavaScript y 
 
 En esta sesión vamos a apreder principios básicos para detectar y solucionar errores en nuestro código JavaScript. Por tanto, estas habilidades las estaremos usando constantemente cuando estemos desarrollando software.
 
-Pero, ¿podemos solucionar los errores antes de que se manifiesten? **¡Claro!** No es el objetivo de este taller, pero podemos utilizar distintas estrategias para prevenir la aparición de errores (*bugs*) en nuestro código. Una de ellas es precisamente el uso de herramientas de testing que aprendimos en el taller anterior. Al realizar un código bien testeado, estamos previniendo que aparezcan muchos errores. Además, una buena estructura del código y el hecho de estar probando el código constantemente también nos formas de prevenir errores y que son consecuencia de testear nuestro código (nos referimos a tener tests automáticos).
+Pero, ¿podemos solucionar los errores antes de que se manifiesten? **¡Claro!** No es el objetivo de este taller, pero podemos utilizar distintas estrategias para prevenir la aparición de errores (*bugs*) en nuestro código. Una de ellas es precisamente el uso de herramientas de testing que aprendimos en el taller anterior. Al realizar un código bien testeado, estamos previniendo que aparezcan muchos errores. Además, una buena estructura del código y el hecho de estar probando el código constantemente también son formas de prevenir errores y que son consecuencia de testear nuestro código (nos referimos a tener tests automáticos).
 
 ## ¿En qué casos se utiliza?
 
@@ -50,7 +50,7 @@ En esta sección vamos a ver pasos a serguir para solucionar errores y en qué c
 
 3. **Entender el error**
 
-  Una vez que hemos identificado y aislado el error, es hora de entender por qué sucede. Antes de intentar solucionar el error es asegurarnos de entender por qué sucede. La razón va a depender mucho del error que sea, y en la siguiente sección del taller veremos algunos tipos de errores en JavaScript y herramientas para solucionarlos. Algo que nos puede ayudar bastante a entender cuándo y por qué sucede un error es el *stack trace*, es decir, el listado de las llamadas a funciones donde ha sucedido el error. En este ejemplo, el error sucede ne la función `drawTotal`, que es llamada por `updateTotal` que a su vez es llamada desde una función anónima.
+  Una vez que hemos identificado y aislado el error, es hora de entender por qué sucede. Antes de intentar solucionar el error es asegurarnos de entender por qué sucede. La razón va a depender mucho del error que sea, y en la siguiente sección del taller veremos algunos tipos de errores en JavaScript y herramientas para solucionarlos. Algo que nos puede ayudar bastante a entender cuándo y por qué sucede un error es el *stack trace*, es decir, el listado de las llamadas a funciones donde ha sucedido el error. En este ejemplo, el error sucede en la función `drawTotal`, que es llamada por `updateTotal` que a su vez es llamada desde una función anónima.
 
   ![Ejemplo de stack trace](../assets/stack-trace.png)
 
